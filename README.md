@@ -2,6 +2,9 @@
 
 This project implements a 3D Smoothed Particle Hydrodynamics (SPH) fluid simulation with an interactive terrain using Python, Pygame, and OpenGL.
 
+<img width="799" alt="image" src="https://github.com/user-attachments/assets/1a41a9ac-5804-4923-8060-bcda133e1f8e">
+
+
 ## Features
 
 - 3D fluid simulation using SPH method
